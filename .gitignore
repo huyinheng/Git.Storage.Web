@@ -1,52 +1,21 @@
-# Prerequisites
-*.d
-
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+/Git.Storage.Common/obj
+/Git.Storage.Common/bin
+/Git.Storage.Rose.Server/obj
+/Git.Storage.Rose.Server/bin
+/Git.Storage.Conversion/bin
+/Git.Storage.Conversion/obj
+/Git.Storage.DataAccess/obj
+/Git.Storage.DataAccess/bin
+/Git.Storage.Entity/obj
+/Git.Storage.Entity/bin
+/Git.Storage.IDataAccess/obj
+/Git.Storage.IDataAccess/bin
+/Git.Storage.Provider/obj
+/Git.Storage.Provider/bin
+/Git.Storage.RoseEntity/bin
+/Git.Storage.RoseEntity/obj
+/Git.Storage.Web/obj
+/Git.Storage.Web/bin
+/Git.Storage.Web/Log
+/Git.Storage.WebAPI/obj
+/Git.Storage.WebAPI/bin

@@ -1,0 +1,13 @@
+MVC5仓库管理系统后台管理源码
+
+一、 程序说明
+　　　　该程序大部分使用于生产制造厂,其中结合了制造厂的采购,销售,生产等. 开源部分是仓库系统后台管理系统, 在给客户实施的过程中利用到了很多硬件设备, 设计到Wince系统,Android系统等PDA设备,各种打印机,条码打印机,感应设备等,而且这些可能在整个项目中占据主导，而后台管理系统只是辅助作用的。
+　　　　该程序使用的.NET MVC开发，大量使用到了jQuery,以及Bootstrap。 数据库使用了SQL Server.
+
+
+
+二、注意：
+        数据库文件在DB文件夹，数据库连接串在Git.Storage.Web\Configs\Data\Database.config
+        开发环境：VS2013 + SQL SEVER 2008 R2
+        用户名：administrator
+        密码：administrator123
